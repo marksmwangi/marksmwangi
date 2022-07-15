@@ -10,6 +10,6 @@
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... Teaching anybody coding  
 
-<img src="https://github-readme-stats.vercel.app/api?username=marksmwangi" alt="Mr Mark" width="500" height="600">
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=marksmwangi)](https://github.com/marksmwangi/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=marksmwangi">
+<!-- [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=marksmwangi)](https://github.com/marksmwangi/github-readme-stats)--!>
 
