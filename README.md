@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I am Mark the Software guy
 
-<!--
-**marksmwangi/marksmwangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ... Customer onBoarding Project using  .NetCore, Azure Logics,Data factory and D365 CRM
+- 🌱 I’m currently learning ... Python and Android
+- 👯 I’m looking to collaborate on ... Android
+- 🤔 I’m looking for help with ... AWS Lambda Functions 
+- 💬 Ask me about ... D 365 or Integrations - Rest/GraphQL
+- 📫 How to reach me: ... marksmwangi@gmail.com
+- 😄 Pronouns: ... He/His
+- ⚡ Fun fact: ... Teaching anybody coding  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=marksmwangi" alt="Mr Mark" width="500" height="600">
+[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=marksmwangi)](https://github.com/marksmwangi/github-readme-stats)
+
